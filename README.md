@@ -2,11 +2,11 @@
 
 # Prerequisites
 Be sure that you already has installed the next programs in your machine
--Pyhton 3.7
--Anaconda Navigator 1.9.2
--Jupyter NoteBook 5.7.0
--R Studio
--Java 10
+##### Pyhton 3.7
+##### Anaconda Navigator 1.9.2
+##### Jupyter NoteBook 5.7.0
+##### R Studio
+##### Java 10
 
 
 # About Project 
@@ -15,7 +15,7 @@ In our project I collaborated researching about Hierarchical Clustering to use t
 
 
 # Authors
-#### Flor Vargas.
-#### Raúl Álvarez.
-#### Arbey Ramírez. 
-#### Sebastián Valencia.
+##### Flor Vargas.
+##### Raúl Álvarez.
+##### Arbey Ramírez. 
+##### Sebastián Valencia.

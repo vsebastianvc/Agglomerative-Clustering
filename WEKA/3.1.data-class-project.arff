@@ -1,0 +1,31 @@
+@relation Agglomerative-Class-weka.filters.unsupervised.attribute.AddID-Cfirst-NID-weka.filters.unsupervised.attribute.NumericToNominal-Rfirst-last
+
+@attribute ID numeric
+@attribute Gender string
+@attribute Country string
+@attribute Continent string
+
+@data
+1,Male,Egypt,Africa
+2,Male,Senegal,Africa
+3,Male,Colombia,America
+4,Male,Haiti,America
+5,Male,Kenya,Africa
+6,Female,Egypt,Africa
+7,Male,Ethiopia,Africa
+8,Female,Ecuador,America
+9,Male,Vietnam,Asia
+10,Male,Vietnam,Asia
+11,Male,Vietnam,Asia
+12,Female,China,Asia
+13,Male,Ethiopia,Africa
+14,Male,Egypt,Africa
+15,Male,Vietnam,Asia
+16,Male,Vietnam,Asia
+17,Male,Vietnam,Asia
+18,Male,Colombia,America
+19,Male,Colombia,America
+20,Male,Vietnam,Asia
+21,Male,Vietnam,Asia
+22,Female,Vietnam,Asia
+23,Male,Brazil,America

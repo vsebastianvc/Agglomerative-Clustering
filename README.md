@@ -15,7 +15,7 @@ In our project I collaborated researching about Hierarchical Clustering to use t
 
 
 # Authors
-### Flor Vargas.
-### Raúl Álvarez.
-### Arbey Ramírez. 
-### Sebastián Valencia.
+#### Flor Vargas.
+#### Raúl Álvarez.
+#### Arbey Ramírez. 
+#### Sebastián Valencia.
